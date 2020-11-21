@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
   <head>
 
@@ -30,10 +29,7 @@
      <li><a href="http://www.megastudy.net/">메가스터디</a></li><br>
      <li><a href="https://skyedu.conects.com/go3/main">스카이에듀</a></li><br>
      <li><a href="https://www.etoos.com/home/default.asp">이투스</a></li><br>
-</div>
 
-  </body>
-</html>
 
 
 <!-- #3CB371 - 연초 
